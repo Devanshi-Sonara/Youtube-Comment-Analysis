@@ -105,7 +105,7 @@ A pie chart displaying the sentiment distribution:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/YouTube-Sentiment-Analysis.git
+git clone https://github.com/Devanshi-Sonara/Youtube-Comment-Analysis.git
 cd YouTube-Sentiment-Analysis
 ```
 
